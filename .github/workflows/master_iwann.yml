@@ -54,4 +54,4 @@ jobs:
           app-name: 'IWANN'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFD488AACBBB45A2A481DD11750B46DE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF7801D49BF14624A869CBC8F4E13BBD }}
